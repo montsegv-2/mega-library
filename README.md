@@ -12,6 +12,8 @@ This reading hub is designed to be a personal digital library. It allows users t
 
 ## Visualization of mega-library
 
+<img width="765" alt="Screenshot 2024-08-11 at 11 05 10 p m" src="https://github.com/user-attachments/assets/c962fb72-08de-420f-8cea-22e496efc0fb">
+
 ## ER Diagram
 
 <img width="741" alt="Screenshot 2024-08-11 at 2 09 43 a m" src="https://github.com/user-attachments/assets/bc6bf22f-00e1-4614-b166-9ff7445866d5">
