@@ -42,6 +42,8 @@ This reading hub is designed to be a personal digital library. It allows users t
 
 **Note:** Ensure that you have the necessary SQL Server drivers installed and configured.
 
+**With these steps, you should be able to successfully install and run the project.**
+
 ## Sprint Review
 
 | What did I do right?              | what I didn't do well                      | What can i do differently?                           |
@@ -55,7 +57,7 @@ This reading hub is designed to be a personal digital library. It allows users t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**With these steps, you should be able to successfully install and run the project.**
+
 
 
 
