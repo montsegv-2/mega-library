@@ -42,6 +42,19 @@ This reading hub is designed to be a personal digital library. It allows users t
 
 **Note:** Ensure that you have the necessary SQL Server drivers installed and configured.
 
+## Sprint Review
+
+| What did I do right?              | what I didn't do well                      | What can i do differently?                           |
+| --------------------------------- | ------------------------------------------ | ---------------------------------------------------- |
+| The project is focused on user needs, such as organizing books, tracking reading habits, and discovering new books. This ensures the platform will be relevant and useful. | Although the objectives are clear, technical details on how they will be implemented are lacking. This led to problems during development. | Identify and prioritize the key features that need to be developed first. This will help me manage the time I have to develop the project and ensure that the most important features are delivered on time. |
+
+## Credits
+
+[<img src="https://avatars.githubusercontent.com/u/116055107?v=4" width=115><br><sub>Montserrat Aguilar Valle</sub>](https://github.com/montsegv-2)
+| :---: |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 **With these steps, you should be able to successfully install and run the project.**
 
 
