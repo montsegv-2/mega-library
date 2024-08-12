@@ -27,7 +27,7 @@ This reading hub is designed to be a personal digital library. It allows users t
 3. **Open Project:**
    * Open Visual Basic 6.
    * Go to "File" -> "Open Project".
-   * Navigate to the extracted folder and  your file .vbp
+   * Navigate to the extracted folder and open your file .vbp
 
 ### Database Connection
 1. **Import Data:**
